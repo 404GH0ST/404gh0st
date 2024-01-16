@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **desyo651@gmail.com**
 
-- ⚡ Fun fact **I migrated to BlackArch solely for Hyprland.**
+- ⚡ Fun fact **I migrated to Arch solely for Hyprland.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
