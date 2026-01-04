@@ -1,5 +1,9 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Agus Prasetyo</h1><br><h3 align="center">An individual passionate about information security, originating from Indonesia.</h3><br>🌱 I’m currently learning about <b>Penetration Testing</b> and <b>Web Development</b><br>💬 Ask me about <b>Web Application Security, CTF, Pentest, Malware Development, or other related topics.</b><br>⚡ Fun fact <b>I migrated to Arch solely for Hyprland.</b><br><br><b><i>All I know is grind.</i></b>
+<h1 align="center">Hi 👋, I'm Agus Prasetyo</h1><br><h3 align="center">An individual passionate about information security, originating from Indonesia.</h3><br>🌱 I’m currently learning about <b>Penetration Testing</b> and <b>Web Development</b><br>💬 Ask me about <b>Web Application Security, CTF, Pentest, Malware Development, or other related topics.</b><br>⚡ Fun fact <b>I migrated to Arch solely for Hyprland.</b><br><br>
+
+![https://app.hackthebox.com/profile/1121443](https://www.hackthebox.com/badge/image/1121443)
+<br>
+<b><i>All I know is grind.</i></b>
 
 
 ## 🌐 Socials:
